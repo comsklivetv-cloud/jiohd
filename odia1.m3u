@@ -33,3 +33,61 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Sidharth_Bhakti_BTS/output/index.mpd?__hd
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1772742306~exp=1772828706~acl=/*~hmac=ffc9e0ba5a35d894e955180b59621ed9da1268909beb960275bbab2c488b475b"}
 https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Kiran_BTS/output/index.mpd?__hdnea__=st=1772742306~exp=1772828706~acl=/*~hmac=ffc9e0ba5a35d894e955180b59621ed9da1268909beb960275bbab2c488b475b&xxx=%7Ccookie=__hdnea__=st=1772742306~exp=1772828706~acl=/*~hmac=ffc9e0ba5a35d894e955180b59621ed9da1268909beb960275bbab2c488b475b
+
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/jZ3yYCyr/Prarthana-Life.png",Prarthana TV
+https://livetv.tarangplus.in/prarthana-origin/live/prarthana-origin/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/Df7tfrbW/Odisha-TV-logo-svg.png",OTV Live
+https://livetv.tarangplus.in/otv-origin/live/otv-origin/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/1Gfh5kZp/News18-Odia-Logo-svg.png",News18 odia
+https://nw18live.cdn.jio.com/bpk-tv/News18_Odia_NW18_MOB/output01/News18_Odia_NW18_MOB-audio_98834_ori=98800-video=1272000.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/Qvf7T53G/TARANG-TV.jpg",Tarang TV
+https://livetv.tarangplus.in/tarangtv-origin/live/tarangtv-origin/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/PGBnQ23g/zee-Sarthak.jpg",Zee Sarthak
+https://ranapk.online/RANAPK33x/TVDv/play.php?id=372910
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/8D6dy7sH/Alankar.webp",Alankar TV
+https://livetv.tarangplus.in/alankar-origin/live/alankar-origin/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/JFj6YGnq/Tarang-Music.png",Tarang Music
+https://livetv.tarangplus.in/tarangmusic-origin/live/tarangmusic-origin/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/B5hFNSD7/Kanak-TV.png",Kanak New
+https://servertvhub.site/jio/app/ts_live_718.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/ccVQJpXF/Kalinga-TV.jpg",Kalinga News
+https://cdn-4.pishow.tv/live/1470/master.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/VWTgLbPc/Argus-TV.png",Argus News
+https://servertvhub.site/jio/app/ts_live_1481.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/v6pVRwpg/DD-Oriya.png",DD Odia
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/kgjn9cqw/Prameya-News-7.png",Prameya News 7
+https://server.livelegitpro.in/prameyanews7/prameyanews7/index.fmp4.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/vv1XzHsR/Badakhabar.png",Badakhabar TV
+https://servertvhub.site/jio/app/ts_live_1692.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/2rDMZDS/MBC.png",Mbc TV
+https://servertvhub.site/jio/app/ts_live_631.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/yFr9vC74/Nandighosha.png",Nandighosha
+https://cdn-4.pishow.tv/live/1486/master.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/WWRKNMh9/Screenshot-2025-12-19-161302.png",STV
+https://amigofx.com:1936/stv/stv/chunklist_w305533562.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/ZRf5c5kN/RCN.jpg",RCN Odia
+http://tv.aplombtv.in:8080/hls/rcnudia/index.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://iili.io/qdfqbvs.png",Dainik Asha
+https://live.ekamraott.com/da/da/video.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://iili.io/qdffcUg.png",Ekamra Paramatma
+https://live.ekamraott.com/paramatma/paramatma/index.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://iili.io/qdfKHZB.png",Ekamra Nilachakra
+https://live.ekamraott.com/nilachakra/nilachakra/index.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://iili.io/qdf3ZeR.png",Ekamra Musiqel
+https://live.ekamraott.com/musiq/musiq/index.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://iili.io/qdf2YyQ.png",Ekamra Baiscope
+https://live.ekamraott.com/baiscope/baiscope/index.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://iili.io/qdfd01s.png",Ekamra Cinema
+https://live.ekamraott.com/cynema/cynema/index.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://iili.io/qdfHySR.png",Ekamra Jatra
+https://live.ekamraott.com/jatra/jatra/index.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://iili.io/qdfH2Eb.png",Ekamra One Paschima
+https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://iili.io/qdKpiut.png",Ekamra Manoranjan
+https://live.ekamraott.com/manoranjan/manoranjan/index.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://iili.io/qdKmoqx.png",Ekamra Bharat
+https://live.ekamraott.com/bharat/bharat/index.m3u8
+#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/rRG2TtXt/Screenshot-2026-01-30-194943.png",Kalinga Bharat
+https://live.ekamraott.com/citymusic/citymusic/video.m3u8
+
