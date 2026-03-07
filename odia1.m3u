@@ -1,10 +1,40 @@
 #EXTM3U
-"logo": "https://img.media.jio.com/imagespublic/96/65/301809_1727708175653_l_high.jpg",
+[
+    {
+        "logo": "https://img.media.jio.com/imagespublic/96/65/301809_1727708175653_l_high.jpg",
         "name": "Jay Jagannath",
         "link": "https://jiotvmblive.cdn.jio.com/bpk-tv/Jay_Jagannath_BTS/output/index.mpd?__hdnea__=st=1768956686~exp=1869043086~acl=/*~hmac=",
         "drmScheme": "clearkey",
         "drmLicense": "61ce2702684058bd825ec8af77bdeb33:a0aa32752fa62c684f82e2955c4f7862",
         "cookie": "__hdnea__=st=1768956686~exp=1869043086~acl=/*~hmac="
+    },
+    {
+        "logo": "https://img.media.jio.com/imagespublic/17/86/301202_1646815437264_l_high.jpg",
+        "name": "Sidharth Bhakti",
+        "link": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sidharth_Bhakti_BTS/output/index.mpd?__hdnea__=st=1768956686~exp=1869043086~acl=/*~hmac=",
+        "drmScheme": "clearkey",
+        "drmLicense": "39b9213c442c54eab037cb15cab0306b:8f5076798fde06111684e0fce4f1f6e2",
+        "cookie": "__hdnea__=st=1768956686~exp=1869043086~acl=/*~hmac="
+    },
+    {
+        "logo": "https://img.media.jio.com/imagespublic/82/30/301204_1646815805517_l_high.jpg",
+        "name": "Sidharth TV",
+        "link": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sidharth_TV_BTS/output/index.mpd?__hdnea__=st=1768956686~exp=1869043086~acl=/*~hmac=",
+        "drmScheme": "clearkey",
+        "drmLicense": "4c13b89593dd53dea599d536b306528e:36a170e30a62bae6ec4af300992015c2",
+        "cookie": "__hdnea__=st=1768956686~exp=1869043086~acl=/*~hmac="
+    },
+    {
+        "logo": "https://img.media.jio.com/imagespublic/69/41/301208_1647085338613_l_high.jpg",
+        "name": "Sidharth Gold",
+        "link": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sidharth_Gold_BTS/output/index.mpd?__hdnea__=st=1768956686~exp=1869043086~acl=/*~hmac=",
+        "drmScheme": "clearkey",
+        "drmLicense": "c1cb48cb1313531db9d0dee0816ca2f0:99fe8587a7fb938e03610e5f8adf442d",
+        "cookie": "__hdnea__=st=1768956686~exp=1869043086~acl=/*~hmac="
+    },
+
+]
+
 
 
 #EXTINF:-1 tvg-id="1956" tvg-language="Odia" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_TV.png",Sidharth TV
