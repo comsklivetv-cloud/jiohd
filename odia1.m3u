@@ -1,6 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="3115" tvg-language="Odia" group-title="Devotional" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jay_Jagannath.png",Jay Jagannath
+"logo": "https://img.media.jio.com/imagespublic/96/65/301809_1727708175653_l_high.jpg",
+        "name": "Jay Jagannath",
 "drmScheme": "clearkey",
         "drmLicense": "61ce2702684058bd825ec8af77bdeb33:a0aa32752fa62c684f82e2955c4f7862",
         "cookie": "__hdnea__=st=1768956686~exp=1869043086~acl=/*~hmac=",
