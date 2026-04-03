@@ -1,15 +1,7 @@
 #EXTM3U
 
-[
-    {
-        "logo": "https://img.media.jio.com/imagespublic/96/65/301809_1727708175653_l_high.jpg",
-        "name": "Jay Jagannath",
-        "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jay_Jagannath_BTS/output/index.mpd?__hdnea__=st=1768956686~exp=1869043086~acl=/*~hmac=",
-        "drmScheme": "clearkey",
-        "drmLicense": "61ce2702684058bd825ec8af77bdeb33:a0aa32752fa62c684f82e2955c4f7862",
-        "cookie": "__hdnea__=st=1768956686~exp=1869043086~acl=/*~hmac="
-    }
-]
+#EXTINF:-1 tvg-id="1106" tvg-name="Jay Jagannath" tvg-logo="https://img.media.jio.com/imagespublic/96/65/301809_1727708175653_l_high.jpg" group-title="Sports",Star Sports 1 HD
+ https://jiotvpllive.cdn.jio.com//bpk-tv/Jay_Jagannath_BTS/output/index.mpd?__hdnea__=st=1775213381~exp=1775234981~acl=/*~hmac=f5780b96fb3563724dcfef24dd519634fca02c67724d1f8130a3331f4290e75a|&user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6&Cookie=__hdnea__=st=1775213381~exp=1775234981~acl=/*~hmac=f5780b96fb3563724dcfef24dd519634fca02c67724d1f8130a3331f4290e75a&drmScheme=clearkey&drmLicense=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
 
 
 #EXTINF:-1 tvg-id="1956" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sidharth_TV.png",Sidharth TV
