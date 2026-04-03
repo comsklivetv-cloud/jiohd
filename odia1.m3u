@@ -6,7 +6,7 @@
 #EXTINF:-1 tvg-id="1956" group-title="Entertainment" tvg-logo="https://img.media.jio.com/imagespublic/96/65/301809_1727708175653_l_medium.jpg",Jay Jagannath
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1dace4dee93ba9a262ba89cdb124156c550d955a641be026aad845989d70e83
-#EXTVLCOPT:http-user-agent="Mozilla/5.0",
+#EXTVLCOPT:"User-Agent": "Mozilla/5.0",
 #EXTHTTP:{"cookie":"__hdnea__=st=1775230727~exp=1775252327~acl=/*~hmac="}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Jay_Jagannath_BTS/output/index.mpd
 
