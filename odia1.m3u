@@ -70,6 +70,12 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Badakhabar_BTS/output/index.mpd?__hdnea__
 #EXTHTTP:{"cookie":"__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/MBC_BTS/output/index.mpd?__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8&xxx=%7Ccookie=__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8
 
+#EXTINF:-1 tvg-id="722" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeSarthak.png",Zee Sarthak
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e65e1ddb70f5ad9a5b521402c2ce026:a89cef74a335be09bd08977334e7b893
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeSarthak_BTS/output/index.mpd?__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8&xxx=%7Ccookie=__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8
 
 
 
@@ -81,8 +87,6 @@ https://livetv.tarangplus.in/otv-origin/live/otv-origin/live_720p/chunks.m3u8
 https://nw18live.cdn.jio.com/bpk-tv/News18_Odia_NW18_MOB/output01/News18_Odia_NW18_MOB-audio_98834_ori=98800-video=1272000.m3u8
 #EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/Qvf7T53G/TARANG-TV.jpg",Tarang TV
 https://livetv.tarangplus.in/tarangtv-origin/live/tarangtv-origin/live_720p/chunks.m3u8
-#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/PGBnQ23g/zee-Sarthak.jpg",Zee Sarthak
-https://ranapk.online/RANAPK33x/TVDv/play.php?id=372910
 #EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/8D6dy7sH/Alankar.webp",Alankar TV
 https://livetv.tarangplus.in/alankar-origin/live/alankar-origin/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/JFj6YGnq/Tarang-Music.png",Tarang Music
@@ -97,8 +101,6 @@ https://server.livelegitpro.in/prameyanews7/prameyanews7/index.fmp4.m3u8
 https://cdn-4.pishow.tv/live/1486/master.m3u8
 #EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/WWRKNMh9/Screenshot-2025-12-19-161302.png",STV
 https://amigofx.com:1936/stv/stv/chunklist_w305533562.m3u8
-#EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://i.ibb.co/ZRf5c5kN/RCN.jpg",RCN Odia
-http://tv.aplombtv.in:8080/hls/rcnudia/index.m3u8
 #EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://iili.io/qdfqbvs.png",Dainik Asha
 https://live.ekamraott.com/da/da/video.m3u8
 #EXTINF:-1 group-title="ଓଡ଼ିଆ ଟିଭି" tvg-logo="https://iili.io/qdffcUg.png",Ekamra Paramatma
