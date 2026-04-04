@@ -70,6 +70,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Badakhabar_BTS/output/index.mpd?__hdnea__
 #EXTHTTP:{"cookie":"__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/MBC_BTS/output/index.mpd?__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8&xxx=%7Ccookie=__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8
 
+
 #EXTINF:-1 tvg-id="722" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeSarthak.png",Zee Sarthak
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e65e1ddb70f5ad9a5b521402c2ce026:a89cef74a335be09bd08977334e7b893
