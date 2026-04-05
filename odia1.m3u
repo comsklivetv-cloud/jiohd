@@ -1,4 +1,24 @@
 #EXTM3U
+[
+   {
+      "id": "301809",
+      "name": "Jay Jagannath",
+      "logo": "https://img.media.jio.com/imagespublic/96/65/301809_1727708175653_l_medium.jpg",
+      "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jay_Jagannath_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1775385215~exp=1775406815~acl=/*~hmac=9a4fc1ddf5dd175aa7686dd36e2405c697964732d869fab61a713895cfb4b240"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Devotional"
+      ],
+      "language": "Odia",
+      "drm_license": "61ce2702684058bd825ec8af77bdeb33:a0aa32752fa62c684f82e2955c4f7862"
+    }
+  ]
+
 
 #EXTINF:-1 tvg-id="3115" group-title="Devotional" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jay_Jagannath.png",Jay Jagannath
 #KODIPROP:inputstream.adaptive.license_type=clearkey
