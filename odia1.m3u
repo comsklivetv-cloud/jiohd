@@ -7,7 +7,6 @@
 #EXTHTTP:{"cookie":"__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Jay_Jagannath_BTS/output/index.mpd?__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8&xxx=%7Ccookie=__hdnea__=st=1775282500~exp=1775304100~acl=/*~hmac=2ff9b50aa9b0cf85a299e8266752391bfa05303e91ec02fec51f0493e1b164d8
 
-
 #EXTINF:-1 tvg-id="1956" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_TV.png",Sidharth TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c13b89593dd53dea599d536b306528e:36a170e30a62bae6ec4af300992015c2
